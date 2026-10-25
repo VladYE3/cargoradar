@@ -1,4 +1,4 @@
-# CargoRadar Test Task
+# CargoRadar
 
 Проект представляет собой мобильное приложение CargoRadar на React Native.
 
